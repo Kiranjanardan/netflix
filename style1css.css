@@ -1,0 +1,113 @@
+.overlay-text{
+    background-image:url("bg.jpg");
+    background-size:cover;
+    height:100vh;
+
+}
+h1{
+    font-size:60px;
+    font-weight:bolder;
+
+    color:red;
+    text-align:left;
+}
+.btn{
+background-color:red;
+color:white;
+padding:px;
+border: 20px;
+cursor:pointer;
+}
+.bb{
+    color:white;
+    text-align: justify;
+}
+.bt{
+color:green;
+text-align: justify;
+}
+.bl{
+    color:orange;
+    text-align: justify;
+}
+.bg{
+    background-color:black;
+    background-size:cover;
+    height:100vh;
+    width: 100vw;
+}
+.dd{
+    color:white;
+    text-align: center;
+
+}
+.bttt{
+
+    text-align: center;
+}
+.pp{
+    text-align:center;
+}
+h2{
+font-size:30px;
+font-weight:bolder ;
+}
+h3{
+    font-size:20px;
+    font-weight:bolder;
+}
+.kiran{
+    padding:10px 12%;
+}
+.accordian{
+    margin: ;
+    width:100%;
+}
+.accordian li {
+    width: 100%;
+    padding:5px;
+
+}
+
+.accordian li label{
+    background-color:gray;
+    padding:10px;
+    font-size:25px;
+    display:flex;
+    position:relative;
+}
+label::after{
+    position: absolute;
+}
+.question{
+    background-color:black;
+}
+
+.can h3
+{
+    color: blue;
+
+
+}
+.btn1{
+    width: 60px;
+    color:blue;
+}
+
+.form-control1{
+    display: block;
+    width: 30%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--bs-body-color);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: var(--bs-body-bg);
+    background-clip: padding-box;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
